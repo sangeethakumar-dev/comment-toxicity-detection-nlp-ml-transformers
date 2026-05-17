@@ -107,8 +107,11 @@ Instructions for running the project and Streamlit application will be updated s
 
 ---
 
-## Status
-🚧 Project currently under development.
+## Project Status
+✅ EDA Completed  
+✅ ML Models Completed  
+✅ BERT Training In Progress  
+🔄 Streamlit Deployment Pending
 
 ---
 
