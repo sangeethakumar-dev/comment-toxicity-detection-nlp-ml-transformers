@@ -107,10 +107,16 @@ Instructions for running the project and Streamlit application will be updated s
 
 ---
 
-## Status
-🚧 Project currently under development.
+## Project Status
+✅ EDA Completed  
+✅ ML Models Completed  
+✅ BERT Training In Progress  
+✅ Streamlit Deployed
 
 ---
+
+## Note
+The trained BERT transformer model weights are not uploaded due to GitHub file size limitations.
 
 ## Author
 Sangeetha S
