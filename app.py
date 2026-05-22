@@ -353,14 +353,12 @@ appear prominently in the dataset. This helps identify commonly used terms in co
         "Model": [
             "Multinomial NB",
             "Logistic Regression",
-            "Linear SVC",
-            "BERT Transformer"
+            "Linear SVC"
         ],
         "F1 Score": [
             0.21,
             0.67,
-            0.72,
-            0.00
+            0.72
         ]
     })
 
@@ -403,21 +401,12 @@ Recall    : 0.12
 F1 Score  : 0.21
 """)
 
-    st.subheader("📌 BERT Transformer")
-
-    st.code("""
-Precision : ?
-Recall    : ?
-F1 Score  : ?
-""")
 
     st.success("""
 Final Observation:
 
 Linear SVC achieved the best traditional machine learning
 performance with balanced precision and recall.
-
-BERT Transformer evaluation metrics will be updated later.
 """)
 
 # =========================
